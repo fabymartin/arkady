@@ -1,5 +1,5 @@
 # arkady
-## Second Foundation Universe
+### Second Foundation Universe
 - Race: Human
 - Care Taker: Peter Pavlov
 - Planet: Terminus and Trantor 
